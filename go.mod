@@ -10,7 +10,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.14.3
 	github.com/chenjiandongx/ginprom v0.0.0-20200410120253-7cfb22707fa6
 	github.com/gin-contrib/cors v1.3.1
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.7.0
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/mitchellh/mapstructure v1.3.3 // indirect
 	github.com/onsi/ginkgo v1.10.1 // indirect
